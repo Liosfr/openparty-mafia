@@ -66,7 +66,7 @@ module.exports = function() {
     name: "Nombre de Mafiosi (mafia)",
     type: Number,
     value: 1,
-    help: "Les Mafiosi ont pour objectif de prendre le contrôle du village. Ensemble, ils décident d'éliminer un citoyen par nuit.",
+    help: "Les mafiosi sont les ennemis principaux du village. Leurs ambitions de prendre le contrôle du village n'ont aucunes limites et ce n'est pas la compassion qui les tueras. <ul> <li>Chaque nuit, le mafioso participe au vote général de la Mafia pour éliminer un membre du village </li> </ul>.",
     role: "mafia"
   },
   {
